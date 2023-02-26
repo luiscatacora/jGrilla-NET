@@ -1,0 +1,97 @@
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\jqGrillaASP.dll
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\jqGrillaASP.pdb
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\Newtonsoft.Json.dll
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Helpers.dll
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Mvc.dll
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Razor.dll
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.dll
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.dll
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.dll
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Helpers.xml
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Mvc.xml
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Razor.xml
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.xml
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.xml
+D:\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.xml
+D:\sisActivoFIjo\jqGrillaASP\obj\Release\jqGrillaASP.csprojResolveAssemblyReference.cache
+D:\sisActivoFIjo\jqGrillaASP\obj\Release\jqGrillaASP.dll
+D:\sisActivoFIjo\jqGrillaASP\obj\Release\jqGrillaASP.pdb
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\jqGrillaASP.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\jqGrillaASP.pdb
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\Newtonsoft.Json.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Helpers.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Mvc.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Razor.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Helpers.xml
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Mvc.xml
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.Razor.xml
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.xml
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\obj\Release\jqGrillaASP.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\obj\Release\jqGrillaASP.dll
+C:\Users\LUIS\Documents\Visual Studio 2015\Projects\sisActivoFIjo\jqGrillaASP\obj\Release\jqGrillaASP.pdb
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\jqGrillaASP.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\jqGrillaASP.pdb
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\Newtonsoft.Json.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Helpers.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Mvc.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Razor.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Helpers.xml
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Mvc.xml
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Razor.xml
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.xml
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.xml
+D:\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.xml
+D:\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.csprojResolveAssemblyReference.cache
+D:\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.dll
+D:\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.pdb
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\jqGrillaASP.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\jqGrillaASP.pdb
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\Newtonsoft.Json.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Helpers.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Mvc.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Razor.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Helpers.xml
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Mvc.xml
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Razor.xml
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.xml
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.xml
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.xml
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.dll
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.pdb
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.csprojAssemblyReference.cache
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\ELPU\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.csproj.CopyComplete
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\jqGrillaASP.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\jqGrillaASP.pdb
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\Newtonsoft.Json.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Helpers.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Mvc.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Razor.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Helpers.xml
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Mvc.xml
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.Razor.xml
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.xml
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Deployment.xml
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\bin\Release\System.Web.WebPages.Razor.xml
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.dll
+E:\PROYECTOS\sisActivoFIjo_AD\jqGrillaASP\obj\Release\jqGrillaASP.pdb
